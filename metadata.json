@@ -1,0 +1,5 @@
+{
+  "name": "LandscapeGenie Pro",
+  "description": "专业级 AI 景观生成器。支持矢量场地编辑、全要素 CAD 导出、3D 模型生成 (.OBJ)、智能面积分析及交通/功能分析图生成。",
+  "requestFramePermissions": []
+}
